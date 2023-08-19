@@ -1,6 +1,6 @@
 ## go-tcp
 
-Basic chat server for real-time messaging implemented in Go.
+Basic chat server for real-time messaging implemented in Go, showcasing concurrency capabilities.
 
 ### Usage
 
